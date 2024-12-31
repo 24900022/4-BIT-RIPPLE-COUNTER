@@ -105,7 +105,8 @@ else
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
-![Screenshot 2024-12-17 210517](https://github.com/user-attachments/assets/8806c89f-4343-46cc-8009-0ec20c05dec7)
+![Screenshot 2024-12-31 134441](https://github.com/user-attachments/assets/1c7bfb15-7724-49fe-9500-1b7c48b6f3f9)
+
 
 
 **RESULTS**
